@@ -49,7 +49,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           path: tmp/${{env.pack-name}}-modrinth.mrpack
-          name: package-${{env.pack-name}}-modrinth
+          name: package-${{env.pack-name}}-modrinth.mrpack
           retention-days: 1
 
       - name: Upload package to GitHub release

@@ -17,7 +17,7 @@
     "color": 13.0,
     "displayNameWhenIconFails": true,
     "entityNumber": 1000.0,
-    "alwaysDisplayNametags": false,
+    "alwaysDisplayNametags": true,
     "dotSize": 2.0,
     "startFadingAt": 0.0,
     "renderOverMinimapFrame": 1.0,
@@ -44,6 +44,25 @@
       },
       "subCategories": [
         {
+          "hardInclude": "nothing",
+          "includeList": [
+            "minecraft:player"
+          ],
+          "includeListInSuperCategory": true,
+          "excludeMode": "ONLY",
+          "excludeList": [],
+          "name": "Player",
+          "protection": false,
+          "settingOverrides": {
+            "displayed": true,
+            "heightBasedFade": true,
+            "icons": 2.0,
+            "names": 2.0,
+            "iconScale": 1.6
+          },
+          "subCategories": []
+        },
+        {
           "hardInclude": "players",
           "includeList": [],
           "includeListInSuperCategory": true,
@@ -53,8 +72,8 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "heightLimit": 2050.0,
-            "color": 15.0
+            "color": 15.0,
+            "heightLimit": 2050.0
           },
           "subCategories": [
             {

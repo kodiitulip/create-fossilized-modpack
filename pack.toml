@@ -1,0 +1,13 @@
+name = "Create Fossilized"
+author = "kodiitulip"
+version = "1.0.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c23ff54d4aed9b762e60d922f9bf86632c0a1bb2f76d03f376eaf5c302608eb8"
+
+[versions]
+forge = "47.4.3"
+minecraft = "1.20.1"

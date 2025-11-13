@@ -1,0 +1,13 @@
+name = "Pretty In Pink"
+filename = "pretty_in_pink-1.0.3-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNPHd5e4/versions/EbuNbKyE/pretty_in_pink-1.0.3-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "25d5eb8501cda8392ef8b2893623ed15a111069054d7e3bcb31e02d6634c2b70c0a5dcaa30dbe9bdf147979fc7dab5cc693012727ef60d6f576af6442b3f1679"
+
+[update]
+[update.modrinth]
+mod-id = "sNPHd5e4"
+version = "EbuNbKyE"

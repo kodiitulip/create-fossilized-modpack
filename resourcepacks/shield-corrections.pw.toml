@@ -1,0 +1,13 @@
+name = "Shield Corrections"
+filename = "Shield Corrections [Colored].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gmX1HqJY/versions/I18IBQzt/Shield%20Corrections%20%5BColored%5D.zip"
+hash-format = "sha512"
+hash = "cda828c3ba9024172485bc4dccbdffad1a6c3070a8bcf7810bc39a34364f7107860f1558f10a425e7fe8d79332e3cb3f15f93a1f7a0bbc4ab8168eb02308b1f2"
+
+[update]
+[update.modrinth]
+mod-id = "gmX1HqJY"
+version = "I18IBQzt"

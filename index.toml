@@ -1,8 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/release.yml"
-hash = "f6b14621b334513a995d857db593d662dfad390cd6ff0794f2da7a5432f16e6c"
+file = "config/chloride-client.json"
+hash = "4deee8fe6c2dd174589f4d50d8760dcea94feb05258b28aac58b91b251802b7b"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "df83b76fb7b0edc3d948dc2f034fb3a6be59314a7e61fbf444baef543539ba7e"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "a64e1455dd1dc4e5f27b438e04c294e62050620a5557162fe8e2e79afaa29983"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
+file = "icon.png"
+hash = "f08a270e2e950a860ed093c73fd31215745d7308abdddc6f4aa839c3214ba9af"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"

@@ -1,31 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/extra/chloride-client.json"
+file = "config/defaultoptions/extra/config/chloride-client.json"
 hash = "4deee8fe6c2dd174589f4d50d8760dcea94feb05258b28aac58b91b251802b7b"
 
 [[files]]
-file = "config/defaultoptions/extra/embeddium-options.json"
+file = "config/defaultoptions/extra/config/embeddium-options.json"
 hash = "852349382cbd7d3d43e6a7d2494ed8fd1e4926a81315bba6a94b5aee8d734d1a"
 
 [[files]]
-file = "config/defaultoptions/extra/xaerominimap-common.txt"
+file = "config/defaultoptions/extra/config/xaerominimap-common.txt"
 hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
 [[files]]
-file = "config/defaultoptions/extra/xaerominimap.txt"
+file = "config/defaultoptions/extra/config/xaerominimap.txt"
 hash = "bb3ad3c129553a5bcb29152111a46b83c70b221d699afc25c51fe7cd52f81ba2"
 
 [[files]]
-file = "config/defaultoptions/extra/xaerominimap_entities.json"
+file = "config/defaultoptions/extra/config/xaerominimap_entities.json"
 hash = "7dcf1f95790de011026175146068f37e9d26cd5b3832fe866895592e08239b65"
 
 [[files]]
-file = "config/defaultoptions/extra/xaeroworldmap-common.txt"
+file = "config/defaultoptions/extra/config/xaeroworldmap-common.txt"
 hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
 
 [[files]]
-file = "config/defaultoptions/extra/xaeroworldmap.txt"
+file = "config/defaultoptions/extra/config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]

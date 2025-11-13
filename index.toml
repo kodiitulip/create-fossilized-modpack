@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9c0ba982fa6587802aefb8629e80cb460dc8f141b2b865c8a352f7fa127bed1d"
+hash = "9761ac088862541bf48843baa50ad7304b059ba363d0c5536d050fe3308eed42"
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"

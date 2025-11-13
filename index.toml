@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "f6b14621b334513a995d857db593d662dfad390cd6ff0794f2da7a5432f16e6c"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "cb06af41fe6ce14cef5b0f92f3f7c8e61eb53f0529cee0f67cd88c50e9424f83"
 metafile = true

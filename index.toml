@@ -104,11 +104,6 @@ hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
-file = "mods/controlify-forgified.pw.toml"
-hash = "f5794df22ab41a2f1e6c76e5362d0f02aa7f64bd12ad2901a0fe2990decf0de3"
-metafile = true
-
-[[files]]
 file = "mods/conures-graves.pw.toml"
 hash = "da92d618e5d393795d08de188cfc12adc0f6fb57da275b83db72876d2309a80d"
 metafile = true

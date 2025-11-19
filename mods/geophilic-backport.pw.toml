@@ -1,13 +1,13 @@
 name = "Geophilic Backport"
-filename = "GeophilicBackported-v1.1.0.jar"
+filename = "GeophilicBackported-v1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uTfd4Kbj/versions/qgMgic4e/GeophilicBackported-v1.1.0.jar"
+url = "https://cdn.modrinth.com/data/uTfd4Kbj/versions/yIQ0vKA8/GeophilicBackported-v1.2.0.jar"
 hash-format = "sha512"
-hash = "025439b345977ef762dabff36256c43cbdd509cd033cdd4f2caff961e5584471969f51123808e7727802dcacbcc822527881988de83dae7f774e63b58ac695ca"
+hash = "c8470237616668a013cd9d16294e4a1c0de85b72186b4eb387d3eb6a1e2346d096deb5ec5e701912685e9969ec90f08cd2d2a15e85b321754758e97058e52630"
 
 [update]
 [update.modrinth]
 mod-id = "uTfd4Kbj"
-version = "qgMgic4e"
+version = "yIQ0vKA8"

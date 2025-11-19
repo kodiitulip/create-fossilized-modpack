@@ -1,12 +1,12 @@
 name = "Create Fossilized"
 author = "kodiitulip"
-version = "1.0.9"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1fc7eff139e19335943c486b9a074f33048bef404bd7d7c080080f939a908b94"
+hash = "668232d290789baf12402738790a4de055ad5248b4cf4fbcd0ad59745e898b71"
 
 [versions]
 forge = "47.4.3"

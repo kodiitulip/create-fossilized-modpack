@@ -110,11 +110,6 @@ hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
 metafile = true
 
 [[files]]
-file = "mods/chloride.pw.toml"
-hash = "5fffcedde4d14f05b332a6a70680340ae2021d2697b45e49ffedb073abcb7c5c"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
